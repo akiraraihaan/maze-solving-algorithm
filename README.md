@@ -9,3 +9,5 @@ Several maze solving algorithm made using python &amp; pygame
 - A* pathfinding algorithm
 
 The mazes are made using prim's algorithm
+
+source : farisyahz
